@@ -9,4 +9,4 @@ Built using Unity Game Engine and source code can be found under GGJ-Vancouver-G
 
 If you wish to open the project in Unity:
 1. Download the game code folder from this repository.
-2. Open the folder and navigate to 
+2. Open the folder and navigate to RitualManCode/Assets/Resources/_Scene/ and open any of the .unity files.

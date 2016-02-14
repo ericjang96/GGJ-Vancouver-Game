@@ -7,4 +7,6 @@ How to run:
 
 Built using Unity Game Engine and source code can be found under GGJ-Vancouver-Game/RitualManCode/Assets/Resources/Scripts/ of this repository.
 
-If you wish to open the project in Unity, you can download 
+If you wish to open the project in Unity:
+1. Download the game code folder from this repository.
+2. Open the folder and navigate to 
